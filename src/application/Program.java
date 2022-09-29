@@ -26,6 +26,7 @@ public class Program {
 	
 			System.out.println();
 			System.out.println("Insira o valor para saque: ");
+			
 			double value = sc.nextDouble();
 		
 		
